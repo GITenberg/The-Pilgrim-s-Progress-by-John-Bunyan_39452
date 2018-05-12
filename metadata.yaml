@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33676
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39452#The-Pilgrim-s-Progress-by-John-Bunyan
 gutenberg_issued: '2012-04-14'
 gutenberg_type: Text
 identifiers:
