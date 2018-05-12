@@ -1,0 +1,40 @@
+_repo: The-Pilgrim-s-Progress-by-John-Bunyan_39452
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bunyan, John
+    birthdate: 1628
+    deathdate: 1688
+    gutenberg_agent_id: '81'
+    url: http://www.gutenberg.org/2009/agents/81
+    wikipedia: http://en.wikipedia.org/wiki/John_Bunyan
+  editor:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbott, Jesse Lyman
+    - Hurlbut, J. L. (Jesse Lyman)
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: ''
+gutenberg_issued: '2012-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39452'
+  lccn: '10009741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian pilgrims and pilgrimages -- Juvenile literature'
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcc 'PR'
+title: The Pilgrim's Progress by John Bunyan Every Child Can Read
+url: http://www.gutenberg.org/ebooks/39452
